@@ -78,4 +78,5 @@ The following Node.js Modules are known to have adopted the LTS policy:
 | [appmetrics-prometheus](https://www.npmjs.com/package/appmetrics-prometheus) | Monitoring   | [link](https://github.com/CloudNativeJS/appmetrics-prometheus/blob/master/README.md#module-long-term-support-policy) | 
 | [appmetrics-zipkin](https://www.npmjs.com/package/appmetrics-zipkin)     | Monitoring   | [link](https://github.com/CloudNativeJS/appmetrics-zipkin/blob/master/README.md#module-long-term-support-policy) | 
 | [zosconnect-node](https://www.npmjs.com/package/zosconnect-node)       | Connectivity | [link](https://github.com/zosconnect/zosconnect-node/blob/master/README.md#module-long-term-support-policy) | 
+| [Status Board](https://www.npmjs.com/package/status-board)       | Framework | [link](https://github.com/jameswlane/status-board#module-long-term-support-policy) | 
 
