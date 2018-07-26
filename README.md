@@ -70,7 +70,7 @@ The following Node.js Modules are known to have adopted the LTS policy:
 
 | Module                | Type         | LTS Policy        |
 |-----------------------|--------------|-------------------|
-| [Loopback](https://www.npmjs.com/package/loopback)              | Framework    | [link](https://github.com/Strongloop/loopback/blob/master/README.md#module-long-term-support-policy)        |
+| [LoopBack](https://www.npmjs.com/package/loopback)              | Framework    | [link](https://github.com/Strongloop/loopback/blob/master/README.md#module-long-term-support-policy)        |
 | [cloud-health](https://www.npmjs.com/package/@cloudnative/health)          | Health Check | [link](https://github.com/CloudNativeJS/cloud-health/blob/master/README.md#module-long-term-support-policy) | 
 | [cloud-health-connect](https://www.npmjs.com/package/@cloudnative/health)  | Health Check | [link](https://github.com/CloudNativeJS/cloud-health-connect/blob/master/README.md#module-long-term-support-policy) | 
 | [appmetrics](https://www.npmjs.com/package/appmetrics)            | Monitoring   | [link](https://github.com/RuntimeTools/appmetrics/blob/master/README.md#module-long-term-support-policy)                  | 
