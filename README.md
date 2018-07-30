@@ -2,12 +2,12 @@
 # Long Term Support for Node.js Modules
 [![Module LTS Adopted'](https://img.shields.io/badge/Module%20LTS-Adopted-brightgreen.svg?style=flat)](http://github.com/CloudNativeJS/ModuleLTS) 
 
-Long Term Support (LTS) for Node.js modules aims to provide the longevity and stability of modules that is crucial for many businesses when adopting Node.js in an enterprise, cloud-native setting.
+The Long Term Support (LTS) policy for Node.js modules aims to provide the longevity and stability of modules that is crucial for many businesses when adopting Node.js in an enterprise, cloud-native setting.
 
-When a version of Node.js enters LTS, whichever the latest major version (**X**.y.z) of a module is at that time, will be supported for the lifetime of that version of Node, and will receive at least security and critical fixes.
+When a version of Node.js enters LTS, whichever is the latest major version (**X**.y.z) of an LTS adopting module at that time will be supported for at least security and critical fixes for the lifetime of that version of Node.js.
 
 ## What does this mean?
-Anyone creating an application, who chooses the latest major version of a module and the latest LTS version of Node, will not have to accept breaking changes into that application to receive essential fixes.
+Anyone creating an application using an LTS version of Node.js and using the latest major version of LTS adopting modules will will not have to accept semver-major level (ie. breaking) changes into that application in order to receive essential fixes.
 
 Essential fixes are those which will prevent severe issues such as data corruption, and/or pervasive problems likely encountered by any application.
 
@@ -66,7 +66,7 @@ By the time Node V8 reaches LTS in October 2017, we have released V2 of our modu
 
 ## Adopters of Module LTS
 
-The following Node.js Modules are known to have adopted the LTS policy:
+The following Node.js Modules are known to have adopted the Module LTS policy:
 
 | Module                | Type         | LTS Policy        |
 |-----------------------|--------------|-------------------|
